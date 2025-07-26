@@ -1,0 +1,3 @@
+bool stop_robot			# Stop the robot
+---
+bool stopped_robot		# Has the robot stopped?

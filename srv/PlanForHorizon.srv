@@ -1,0 +1,6 @@
+int16 hor_id					# Horizon ID
+PlanInstance[] plans
+uint64 start_from_intrvl		# Start following the path from the beginning of the start_from_intrvl interval
+bool stop						# Stop the robot
+---
+uint64 rcvd_intrvl				# Received in interval
