@@ -1,4 +1,4 @@
-# ConCPP (Concurrent Coverage Path Planning)
+# Concurrent Coverage Path Planning (ConCPP)
 Implementation of **Online Concurrent Multi-Robot Coverage Path Planning** [IROS 2025] in **ROS Noetic Ninjemys** using **C++**.
 
 Paper's URL: [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/) and [CoRR](https://arxiv.org/abs/2403.10460)<br/>
