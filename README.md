@@ -3,7 +3,7 @@ Implementation of **Online Concurrent Multi-Robot Coverage Path Planning** [IROS
 
 Paper's URL: [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/) and [CoRR](https://arxiv.org/abs/2403.10460)<br/>
 Video's URL: [YouTube](https://www.youtube.com/watch?v=)
-<code style="color : name_color">text</code>
+<code style="color : red">text</code>
 #### Instructions:
 
 1.  Download the source code package:<br/> 
