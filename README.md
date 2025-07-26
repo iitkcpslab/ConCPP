@@ -1,5 +1,5 @@
-# OnDemCPP (Online On-Demand Multi-Robot Coverage Path Planning)
-Implementation of **Online On-Demand Multi-Robot Coverage Path Planning** [ICRA 2024] in **ROS Noetic Ninjemys** using **C++**.
+# ConCPP (Concurrent Coverage Path Planning)
+Implementation of _**Online Concurrent Multi-Robot Coverage Path Planning**_ [IROS 2025] in **ROS Noetic Ninjemys** using **C++**.
 
 Paper's URL: [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10611610), [CoRR](https://arxiv.org/abs/2303.00047)<br/>
 Video's URL: [YouTube](https://www.youtube.com/watch?v=5nhysTTp2Fw)
