@@ -40,5 +40,5 @@ Video's URL: [YouTube](https://www.youtube.com/watch?v=)
         `rm ~/catkin_ws/src/OnDemCPP/output/*`<br/> 
         `rosrun con_plan_exec_pkg conCpExe _ws_x:=<Workspace size along the +x axis> _ws_y:=<Workspace size along the +y axis> _rc:=<Robot count>`
     -   Tab 4:
-        `cp ~/<Workspace directory>/ws_obs_robs.txt ~/catkin_ws/src/OnDemCPP/input/`<br/>
+        `cp ~/<Workspace directory>/ws_obs_robs.txt ~/catkin_ws/src/ConCPP/input/`<br/>
         `rosrun con_plan_exec_pkg conRobotExe __name:=robot_<Robot ID> _rid:=<Robot ID> # Run for each Robot-i`
